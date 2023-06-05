@@ -2,7 +2,7 @@
  Title: GPA Calculator Application Using Python
  
 With the aim of creating a GPA calculator applicaiton, Python was the most appealing option for development due to its easy to use and versatile Tkinter module.
-
+ 
 The application functionality was based on the following:
 -Students can enter the marks obtained in each subject of a semester
 -The number of subjects and the credits for each subject of a particular semester can be selected by the student
